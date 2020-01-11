@@ -2,8 +2,8 @@ import setuptools
 
 with open("README.md", 'r') as readme:
     setuptools.setup(
-        name = 'scihub',
-        version = '1.0.2',
+        name = 'scihub.py',
+        version = '0.0.1',
         author = "zaytoun",
         description = "Unofficial API for Sci-Hub.",
         long_description = readme.read(),
