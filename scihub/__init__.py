@@ -1,3 +1,3 @@
 name = "scihub"
 
-from scihub.scihub import Scihub
+from scihub.scihub import SciHub
